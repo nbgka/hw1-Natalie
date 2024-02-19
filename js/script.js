@@ -1,4 +1,4 @@
-let images = ["../media/images/candy.jpg","../media/images/cat.png","../media/images/ghost.jpg"];
+let images = ["../media/images/candy.png","../media/images/cat.png","../media/images/ghost.png"];
 
 document.getElementById("randomNumber").addEventListener("click", displayImage);
 
